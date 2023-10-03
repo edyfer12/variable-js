@@ -11,3 +11,5 @@ name = "John";
 admin = name;
 
 //Display the variable
+
+alert(admin);
